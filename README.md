@@ -1,6 +1,6 @@
 # ClosestPairOfPoints
-Three algorithms to solve a closest pair of points problem. Using brute force, recursion and multiple processes + recursion
-Implemented in C and the program solves the problem describes here in O(nlogn) time.
+Three algorithms to solve a closest pair of points problem as described here https://mcs.utm.utoronto.ca/~209/assignments/clrs_closest_points.pdf. Using brute force, recursion and multiple processes + recursion
+Implemented in C and the program solves the problem describes here in O(nlogn) time for the parallel solution.
 
 There are 3 solutions implemented:
 closest_brute which uses brute force to solve the problem
